@@ -2,5 +2,5 @@
 文字コードはUTF-8になっています。
 ソートはしてありません。  
 なので、  
-    $ skkdic-expr2 inputfile > outputfile  
+`$ skkdic-expr2 inputfile > outputfile  
 などしてソートしてから使ってください。
